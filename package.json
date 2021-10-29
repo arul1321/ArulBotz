@@ -1,5 +1,5 @@
 {
-  "name": "BENNYBOT",
+  "name": "ArulBotz",
   "version": "1.0.0",
   "description": "Termux or Command Prompt",
   "main": "index.js",
@@ -18,17 +18,4 @@
     "node-fetch": "^2.6.1",
     "qrcode-terminal": "^0.12.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bennysolo/BennyBOTWA.git"
-  },
-  "keywords": [
-    "k"
-  ],
-  "author": "Benny Hidayat",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bennysolo/BennyBOTWA/issues"
-  },
-  "homepage": "https://github.com/bennysolo/BennyBOTWA/readme"
-}
+  
